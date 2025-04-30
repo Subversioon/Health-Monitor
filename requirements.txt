@@ -1,0 +1,7 @@
+Faker
+pandas
+scipy
+matplotlib
+pyspark
+seaborn
+streamlit
